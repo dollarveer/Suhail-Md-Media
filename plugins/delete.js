@@ -42,7 +42,7 @@ CURRENTLY RUNNING ON BETA VERSION!!
 
 
 let SuhailTechInfo = "Owner";
-let DELCHAT = process.env.DELCHAT || "pm"; // "chat"
+let DELCHAT = process.env.DELCHAT || "chat"; // "chat"
 /*
 cmd({
    pattern :"delete",
